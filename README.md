@@ -52,14 +52,17 @@ This project is an interactive dashboard developed using Dash Plotly to visualiz
 ```
 hr-analytics-dashboard/
 │
-├── app.py                   # Main application file
-├── assets/                  # Folder for CSS and JS files
-├── data/
-│   └── HR_Analytics.csv     # Dataset file
+├── src/                     # Source folder
+│   ├── app.py               # Main application file
+│   ├── assets/              # Folder for CSS and JS files
+│   └── data/                # Folder for dataset files
+│       └── HR_Analytics.csv # Dataset file
 ├── requirements.txt         # Required packages
 ├── README.md                # Project README
 └── screenshots/             # Folder for screenshots of the dashboard
 ```
+
+This structure reflects the inclusion of the "src" folder, where the application files are located.
 
 ## Contributing
 

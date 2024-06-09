@@ -12,48 +12,13 @@ This project is an interactive dashboard developed using Dash Plotly to visualiz
 
 ## Features
 
-### Education Levels
-- 1: 'Below College'
-- 2: 'College'
-- 3: 'Bachelor'
-- 4: 'Master'
-- 5: 'Doctor'
-
-### Environment Satisfaction
-- 1: 'Low'
-- 2: 'Medium'
-- 3: 'High'
-- 4: 'Very High'
-
-### Job Involvement
-- 1: 'Low'
-- 2: 'Medium'
-- 3: 'High'
-- 4: 'Very High'
-
-### Job Satisfaction
-- 1: 'Low'
-- 2: 'Medium'
-- 3: 'High'
-- 4: 'Very High'
-
-### Performance Rating
-- 1: 'Low'
-- 2: 'Good'
-- 3: 'Excellent'
-- 4: 'Outstanding'
-
-### Relationship Satisfaction
-- 1: 'Low'
-- 2: 'Medium'
-- 3: 'High'
-- 4: 'Very High'
-
-### Work-Life Balance
-- 1: 'Bad'
-- 2: 'Good'
-- 3: 'Better'
-- 4: 'Best'
+| Hierarchy_Level                  | Education Levels | Environment Satisfaction | Job Involvement | Job Satisfaction | Performance Rating | Relationship Satisfaction | Work-Life Balance |
+|--------------------------|------------------|---------------------------|-----------------|------------------|--------------------|----------------------------|-------------------|
+| 1                  | Below College    | Low                       | Low             | Low              | Low                | Low                        | Bad               |
+| 2                  | College          | Medium                    | Medium          | Medium           | Good               | Medium                     | Good              |
+| 3                  | Bachelor         | High                      | High            | High             | Excellent          | High                       | Better            |
+| 4                  | Master           | Very High                 | Very High       | Very High        | Outstanding        | Very High                  | Best              |
+| 5                  | Doctor           | -                         | -               | -                | -                  | -                          | -                 |
 
 ## Project Objectives
 

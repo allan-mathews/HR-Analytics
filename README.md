@@ -77,4 +77,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - IBM for creating the fictional HR dataset.
 - Dash Plotly for providing the tools to build interactive web applications.
 - Kaggle for hosting the dataset.
+
+```
+df1.drop(columns=['Over18','EmployeeNumber'])
 ```
